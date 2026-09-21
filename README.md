@@ -1,11 +1,11 @@
 <!-- Top Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prity%20Singh&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Data%20Science%20Enthusiast%20%7C%20AI%20%26%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prity%20Singh&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Full%20Stack%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Prity+Singh!;Data+Science+Enthusiast+%F0%9F%93%8A;AI+%26+Full+Stack+Developer+%F0%9F%A4%96;Google+Student+Ambassador+2026+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Prity+Singh!;AI+%26+Full+Stack+Developer+%F0%9F%A4%96;Data+Science+Enthusiast+%F0%9F%93%8A;Google+Student+Ambassador+2026+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <!-- Banner Image like reference -->
