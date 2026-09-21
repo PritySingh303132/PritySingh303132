@@ -1,7 +1,6 @@
-<!-- Top Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prity%20Singh&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Full%20Stack%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<!-- Top Wave Banner - using direct img tag without p wrapper -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Prity%20Singh&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Full%20Stack%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=55&descSize=18)
 
-<!-- Animated Typing -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Prity+Singh!;AI+%26+Full+Stack+Developer+%F0%9F%A4%96;Data+Science+Enthusiast+%F0%9F%93%8A;Google+Student+Ambassador+2026+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
 </p>
@@ -28,7 +27,7 @@ I'm passionate about **Data Science, AI, and Full Stack Development** — I love
 
 </td>
 <td valign="top" width="40%">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
 </td>
 </tr>
 </table>
@@ -38,7 +37,7 @@ I'm passionate about **Data Science, AI, and Full Stack Development** — I love
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,react,nodejs,mongodb,tensorflow,git,github,linux,vscode,vercel,html,css&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,react,nodejs,mongodb,tensorflow,git,github,linux,vscode,vercel,html,css&perline=7" />
 </p>
 
 <p align="center">
@@ -67,14 +66,6 @@ I'm passionate about **Data Science, AI, and Full Stack Development** — I love
 
 ---
 
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PritySingh303132&theme=tokyonight&no-frame=true&column=6" width="100%"/>
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="center">
@@ -94,13 +85,8 @@ I'm passionate about **Data Science, AI, and Full Stack Development** — I love
 
 ---
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-
 <!-- Bottom Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PritySingh303132&color=6C63FF&style=flat-square&label=Profile+Views"/>
