@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Prity+Singh;AI+%26+Full+Stack+Developer;Data+Science+Enthusiast;Google+Student+Ambassador+2026+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Prity+Singh;Data+Science+Enthusiast;AI+%26+Machine+Learning;Google+Student+Ambassador+2026+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 Hey there! I'm **Prity Singh**, a Computer Engineering undergrad from **SKNCOE Pune** (SPPU, 2027) 🎓
 
-I love building real-world AI-powered applications and turning raw data into meaningful insights. When I'm not coding, you'll find me exploring new AI tools, solving DSA problems, or reading about health-tech startups!
+I love building real-world AI-powered applications and turning raw data into meaningful insights. When I'm not coding, you'll find me exploring new AI tools, solving DSA problems, or reading about ML models!
 
 - 🔭 Currently building: **AI-powered full-stack applications**
 - 🌱 Learning: **RAG, Power BI, PySpark, AWS**
