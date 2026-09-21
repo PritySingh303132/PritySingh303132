@@ -1,54 +1,42 @@
-<!-- Top Wave Banner - using direct img tag without p wrapper -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Prity%20Singh&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Full%20Stack%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=55&descSize=18)
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Prity+Singh;AI+%26+Full+Stack+Developer;Data+Science+Enthusiast;Google+Student+Ambassador+2026+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Prity+Singh!;AI+%26+Full+Stack+Developer+%F0%9F%A4%96;Data+Science+Enthusiast+%F0%9F%93%8A;Google+Student+Ambassador+2026+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=Welcome+to+my+GitHub!&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
 
 ---
 
-<!-- About Me + GIF side by side -->
-<table>
-<tr>
-<td valign="top" width="60%">
-
 ### 👩‍💻 About Me
 
-Hey there! 👋 I'm **Prity Singh**, a Computer Engineering undergrad from **SKNCOE Pune** 🎓
+Hey there! I'm **Prity Singh**, a Computer Engineering undergrad from **SKNCOE Pune** (SPPU, 2027) 🎓
 
-I'm passionate about **Data Science, AI, and Full Stack Development** — I love building real-world AI-powered applications and turning raw data into meaningful insights!
+I love building real-world AI-powered applications and turning raw data into meaningful insights. When I'm not coding, you'll find me exploring new AI tools, solving DSA problems, or reading about health-tech startups!
 
-- 🔭 Building: **AI-powered full-stack applications**
+- 🔭 Currently building: **AI-powered full-stack applications**
 - 🌱 Learning: **RAG, Power BI, PySpark, AWS**
-- 💬 Ask me about: **Python, AI/ML, SQL, Data Analytics, React**
-- 📫 Email: **pritysingh.skncoe@gmail.com**
-- 🏆 **Google Student Ambassador 2026** | **GSSoC 2026** | **250+ LeetCode**
+- 💬 Ask me about: **Python, AI/ML, SQL, React, Data Analytics**
+- 📫 Reach me at: **pritysingh.skncoe@gmail.com**
 - ⚡ Fun fact: **My favorite sport? Wrestling with a stubborn dataset until it gives me what I need!** 😄
-
-</td>
-<td valign="top" width="40%">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
-</td>
-</tr>
-</table>
+- 🏆 Google Student Ambassador 2026 | GSSoC 2026 Contributor | 250+ LeetCode
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,react,nodejs,mongodb,tensorflow,git,github,linux,vscode,vercel,html,css&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,react,nodejs,mongodb,sql,tensorflow,git,github,linux,vscode,vercel,html,css&theme=dark&perline=8" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
@@ -62,6 +50,14 @@ I'm passionate about **Data Science, AI, and Full Stack Development** — I love
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritySingh303132&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PritySingh303132&theme=tokyonight&no-frame=true&column=6" width="100%"/>
 </p>
 
 ---
@@ -85,8 +81,9 @@ I'm passionate about **Data Science, AI, and Full Stack Development** — I love
 
 ---
 
-<!-- Bottom Wave -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PritySingh303132&color=6C63FF&style=flat-square&label=Profile+Views"/>
